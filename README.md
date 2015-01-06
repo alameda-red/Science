@@ -17,4 +17,4 @@ You can either modify your composer.json with
 or run:
 ```shell
     $ composer require "alameda-red/science=0.*"
-´´´
+```
