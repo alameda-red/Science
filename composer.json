@@ -1,0 +1,25 @@
+{
+    "name": "alameda-red/science",
+    "license": "MIT",
+    "type": "library",
+    "description": "Alameda Science component",
+    "keywords": [ "constant", "earth radius" ],
+    "version": "0.0.1",
+    "time": "2015-01-07",
+    "homepage": "https://github.com/alameda-red/Science",
+    "authors" : [{
+        "name" : "Sebastian Kuhlmann",
+        "email" : "zebba@hotmail.de"
+    }
+    ],
+    "autoload": {
+        "psr-4": { "Alameda\\Component\\Science\\": "" }
+    },
+    "target-dir": "Alameda/Component/Science",
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.*"
+    }
+}
